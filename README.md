@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;Welcome+to+Inho’s+GitHub+profile!&font=Fira+Code&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;Welcome+to+oculusK’s+GitHub+profile!&font=Fira+Code&pause=1000)](https://git.io/typing-svg)
 
 
 ## 🚀 도전하는 개발자
