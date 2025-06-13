@@ -85,7 +85,7 @@
 | 스마트 오피스 AIoT 환경 모니터링   | IoT 센서 기반 실시간 쾌적도 예측 및 제어 시스템    | [GitHub](https://github.com/Pangyo-Coffee-Legends)                  |
 | SpringFramework 를 활용한 블로그               | 모노리식 구조에서 MSA 구조로 변환하여 작업한 프로젝트                 | 기획·설계 완료 (자료 정리 중)                                          |
 | Servlet 기반 쇼핑몰        | Servlet 에 대해 더욱 깊은 이해를 하기 위한 프로젝트   | API 설계 중 (자료 정리 중)                                          |
-| Flow Based IoT                     | IoT 노드를 활용한 데이터 수집·시각화 플랫폼         | [Notion](https://crystal-sulfur-aa0.notion.site/IoT-157536e0b61d80b88148eb131c64a7e2?pvs=4) |
+| Flow Based IoT                     | IoT 노드를 활용한 데이터 수집·시각화 플랫폼         | [Notion](https://diamond-isthmus-453.notion.site/NHN-Academy-Team16-1577f597e5ad8055bd1dd5f7aa992a13?source=copy_link) |
 
 ---
 
